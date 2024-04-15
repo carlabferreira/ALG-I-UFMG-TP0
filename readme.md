@@ -13,5 +13,7 @@ A entrega solicitada foi via VPL e arquivo zip no moodle, portanto foi realizada
 ### DOCUMENTAÇÃO
 
 A documentaçã foi feita em um documento online (Google Docs) que está disponível nos links abaixo.
+
 EX1: https://docs.google.com/document/d/1frcmv189hCBnXO3vryiA1mQUcffIDPamqYtG3wG5zSU/edit?usp=sharing
+
 EX2: https://docs.google.com/document/d/1-5iboLSggPugzRTLgWgw1AbLcdMzK1TgvGfcgEPMuxQ/edit?usp=sharing
